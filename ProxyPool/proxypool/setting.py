@@ -33,7 +33,7 @@ API_PORT = 5555
 
 # 开关
 TESTER_ENABLED = True
-GETTER_ENABLED = True
+GETTER_ENABLED = Trues
 API_ENABLED = True
 
 # 最大批测试量

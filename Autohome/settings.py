@@ -52,7 +52,7 @@ DEFAULT_REQUEST_HEADERS = {
 # Enable or disable downloader middlewares
 # See https://doc.scrapy.org/en/latest/topics/downloader-middleware.html
 DOWNLOADER_MIDDLEWARES = {
-    'Autohome.middlewares.ProxyMiddleware': 100,
+    # 'Autohome.middlewares.ProxyMiddleware': 100,
     'Autohome.middlewares.UAMiddleware': 100,
 }
 
@@ -108,5 +108,5 @@ SCHEDULER_PERSIST = True
 
 REDIS_URL = 'redis://127.0.0.1:6379/'  # 配置连接
 
-# 获取ip的链接
+# # 获取ip的链接
 PROXY_URL = 'http://localhost:5555/random'

@@ -2,6 +2,11 @@
 
 https://car.autohome.com.cn/pic/index.html
 
+目标网站过大，这里展示抓取到的30Ｇ图片．
+
+结果：
+
+百度云盘：链接：https://pan.baidu.com/s/1HcCkwAgK5TcuWmP6URKUgQ 密码：qu13
 
 项目启动文件：start.py
 

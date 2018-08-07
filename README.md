@@ -2,11 +2,6 @@
 
 https://car.autohome.com.cn/pic/index.html
 
-这里抓去了35个G左右的图片资料作为展示
-
-结果：
-
-百度云盘：
 
 项目启动文件：start.py
 
